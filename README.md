@@ -1,8 +1,8 @@
 # Weathercast_cli :sunny:
 Simple cli tool to view current weather from around the world
 #### :poop: check it out:
-https://www.npmjs.com/package/weathercast_cli
-https://github.com/makoteq/current_weather_tool
+- https://www.npmjs.com/package/weathercast_cli
+- https://github.com/makoteq/current_weather_tool
 ```
 ```
 ![cmd pic](https://raw.githubusercontent.com/makoteq/current_weather_tool/master/screen.PNG))
